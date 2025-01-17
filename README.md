@@ -1,1 +1,1 @@
-# Stack_linklist Korejo
+# Stack_linklist
